@@ -15,13 +15,8 @@ img{
     margin-right: auto;
     margin-left: auto;   
 }    
- .tname{
-    margin-right: 0px;
-    margin-left: 150px;
- }
- .fname{
-    margin-right: 0px;
-    margin-left: 100px;
+ h2 {
+    text-align:center;
  }
 body {
     background-color: pink;
@@ -77,6 +72,6 @@ table,td,th{border:solid 1px rgb(8, 7, 7);
     margin-left: auto; 
     
 }
-button {
-    margin-top: 1000px
+.yohaku{
+    margin-bottom: 1000px;
 }
