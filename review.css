@@ -8,12 +8,12 @@
 h1 {
     color: whitesmoke;
     -webkit-text-stroke: 1px rgb(50, 53, 27);
-    margin-right: 20px;
-    margin-left: 60px;
+    text-align:center;
     }
 img{
-    margin-right: 20px;
-    margin-left: 100px;   
+    display:block;
+    margin-right: auto;
+    margin-left: auto;   
 }    
  .tname{
     margin-right: 0px;
@@ -63,16 +63,19 @@ table,td,th{border:solid 1px rgb(8, 7, 7);
     background-color: #eef5db;
     border-style: ridge;
     color:rgb(4, 9, 78);
-    margin-right: 50px;
-    margin-left: 200px;
+    display:block;
+    margin-right: auto;
+    margin-left: auto; 
 }
 .rp{
     padding:5px 5px;
     background-color: #eef5db;
     border-style: ridge;
     color:red(4, 9, 78);
-    margin-right: 50px;
-    margin-left: 200px;
+    display:block;
+    margin-right: auto;
+    margin-left: auto; 
+    
 }
 button {
     margin-top: 1000px
