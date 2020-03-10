@@ -26,7 +26,7 @@ function changecolorGOtotop() {
   base.style.backgroundColor = '#000000';  //背景色を黒にする
 
   //名前を変える
-  document.getElementById('name').innerHTML = '<span class =fname>インチキ <span class="star"> <span>☆</span></span> おじさん</span>';
+  document.getElementById('name').innerHTML = '<span class =fname>ホサカ <span class="star"> <span>☆</span></span> ケイタ</span>';
 
   //隠れている文字を表示する
   var hidewrite = document.getElementsByClassName('hide');
