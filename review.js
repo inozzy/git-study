@@ -30,13 +30,13 @@ function changecolorGOtotop() {
 
   //隠れている文字を表示する
   var hidewrite = document.getElementsByClassName('hide');
-  hidewrite[0].innerHTML = '　ずっと実家';
-  hidewrite[1].innerHTML = '　もうすぐ３０歳';
+  hidewrite[0].innerHTML = '　蝦夷';
+  hidewrite[1].innerHTML = '　てんびん座';
   hidewrite[2].innerHTML = '　たまに献血をします';
   hidewrite[3].innerHTML = '　一瞬左手しか使えない時期がありました';
-  hidewrite[4].innerHTML = '　バンドやってる';
-  hidewrite[5].innerHTML = '　なんでもやってる';
-  hidewrite[6].innerHTML = '　見かけによらずやってる';
+  hidewrite[4].innerHTML = '　バンドやってます';
+  hidewrite[5].innerHTML = '　なんでもやります';
+  hidewrite[6].innerHTML = '　見かけによらずやってます';
   hidewrite[7].innerHTML = '　嘘ですやってません';
   hidewrite[8].innerHTML = '　違います、なかやまきんに君の筋肉ブログです';
 
