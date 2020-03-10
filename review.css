@@ -74,3 +74,6 @@ table,td,th{border:solid 1px rgb(8, 7, 7);
     margin-right: 50px;
     margin-left: 200px;
 }
+button {
+    margin-top: 1000px
+}
