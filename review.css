@@ -1,0 +1,76 @@
+.face{
+    color:yellow;
+}
+.back{
+    color: yellow;
+    opacity: 0.4;
+}
+h1 {
+    color: whitesmoke;
+    -webkit-text-stroke: 1px rgb(50, 53, 27);
+    margin-right: 20px;
+    margin-left: 60px;
+    }
+img{
+    margin-right: 20px;
+    margin-left: 100px;   
+}    
+ .tname{
+    margin-right: 0px;
+    margin-left: 150px;
+ }
+ .fname{
+    margin-right: 0px;
+    margin-left: 100px;
+ }
+body {
+    background-color: pink;
+    width: 500px;  
+    margin-right: auto;
+    margin-left: auto;
+}
+table,td,th{border:solid 1px rgb(8, 7, 7);
+    background-color: white;
+        }
+.under {border-bottom: solid 1px white;
+}
+.star{
+    color: yellow;
+    -webkit-text-stroke: 0.5px rgb(50, 53, 27);
+}
+.star span{
+    display: inline-block;
+    animation: rotate-anime 2s ease-in-out infinite;
+  }
+  @keyframes rotate-anime {
+   100%{ transform: rotate(360deg) }
+  }
+
+  @keyframes rotate-anime {
+   100%{ transform: rotate(360deg) }
+  }
+
+  .hide{
+      color: red;
+  }
+
+  .secret{
+      color: black
+  }
+
+.truth{  
+    padding:5px 20px;
+    background-color: #eef5db;
+    border-style: ridge;
+    color:rgb(4, 9, 78);
+    margin-right: 50px;
+    margin-left: 200px;
+}
+.rp{
+    padding:5px 5px;
+    background-color: #eef5db;
+    border-style: ridge;
+    color:red(4, 9, 78);
+    margin-right: 50px;
+    margin-left: 200px;
+}
